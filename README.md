@@ -4,7 +4,7 @@ Hi 👋 My name is Aiman Ansari
 Web Developer
 -------------
 
-I have completed graduation in B.Sc (CS). Currently learning web development at neogCamp. I have made many projects to enhance my skills in web development.
+I learnt web development at neogCamp. I have made many projects to enhance my skills in web development.
 
 
 ### Skills
